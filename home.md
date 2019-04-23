@@ -2,7 +2,7 @@
 title: Hoşgeldin!
 description: 
 published: true
-date: 2019-04-23T20:10:49.285Z
+date: 2019-04-23T20:12:49.482Z
 tags: 
 ---
 
