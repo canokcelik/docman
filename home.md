@@ -10,3 +10,4 @@ tags:
 
 - Öğrendiğin ve başardığın şeyleri buraya not al!
 - Github'da bir repo yarat ve senkron et..
+- github üzerinde değişiklik.
